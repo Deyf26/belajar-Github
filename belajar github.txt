@@ -5,3 +5,4 @@ belajar github
 - semoga saya bisa tetap konsisten
 - belajar dari lebih banyak video
 - mempelajari berbagai macam bahasa pemrograman
+- belajar dengan branch
