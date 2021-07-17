@@ -6,3 +6,4 @@ belajar github
 - belajar dari lebih banyak video
 - mempelajari berbagai macam bahasa pemrograman
 - belajar dengan branch
+- mengerti soal network
